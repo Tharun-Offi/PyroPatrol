@@ -45,6 +45,8 @@ PyroPatrol is an Arduino-based system for automated fire detection and response.
 
 ## Circuit Diagram
 
+![PyroPatrol Circuit Diagram](circuit_diagram.png)
+
 ### Textual Schematic
 
 ```
@@ -72,7 +74,7 @@ PyroPatrol is an Arduino-based system for automated fire detection and response.
 - Each output device (LED, buzzer, relay, etc.) connects its signal pin to D2–D6, with appropriate resistors if needed.
 - All components must share a common ground with the Arduino.
 
-For a graphical diagram, refer to the [Fritzing project file](#) (add if available) or use the above schematic as a guide.
+For a graphical diagram, refer to the image above or use the above schematic as a guide.
 
 ## Detailed Explanation
 
